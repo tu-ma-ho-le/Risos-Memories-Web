@@ -194,6 +194,7 @@ span {
 .highlight-secondary {
     background-color: var(--secondary-base);
     border-radius: 2rem;
+    padding: 0 1rem;
 }
 
 .hero-section {
